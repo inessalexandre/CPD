@@ -1,0 +1,111 @@
+Matrix size: 600 x 600
+
+Result matrix: 
+180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 180300.0 
+
+Time: 0.334 seconds
+Time: 0.322 seconds
+Time: 0.290 seconds
+Time: 0.400 seconds
+Time: 0.380 seconds
+Time: 0.390 seconds
+Time: 0.370 seconds
+Time: 0.521 seconds
+Time: 0.367 seconds
+Time: 0.346 seconds
+
+Matrix size: 1000 x 1000
+
+Result matrix: 
+500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 500500.0 
+
+Time: 2.218 seconds
+Time: 2.355 seconds
+Time: 2.156 seconds
+Time: 2.003 seconds
+Time: 2.031 seconds
+Time: 1.984 seconds
+Time: 2.320 seconds
+Time: 2.262 seconds
+Time: 2.337 seconds
+Time: 2.343 seconds
+
+Matrix size: 1400 x 1400
+
+Result matrix: 
+980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 980700.0 
+
+Time: 6.554 seconds
+Time: 6.639 seconds
+Time: 7.191 seconds
+Time: 7.913 seconds
+Time: 7.373 seconds
+Time: 5.882 seconds
+Time: 5.993 seconds
+Time: 6.075 seconds
+Time: 6.911 seconds
+Time: 7.641 seconds
+
+Matrix size: 1800 x 1800
+
+Result matrix: 
+1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 1620900.0 
+
+Time: 19.147 seconds
+Time: 19.793 seconds
+Time: 20.100 seconds
+Time: 17.065 seconds
+Time: 15.933 seconds
+Time: 17.189 seconds
+Time: 17.039 seconds
+Time: 15.337 seconds
+Time: 17.438 seconds
+Time: 20.383 seconds
+
+Matrix size: 2200 x 2200
+
+Result matrix: 
+2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 2421100.0 
+
+Time: 44.139 seconds
+Time: 42.937 seconds
+Time: 44.852 seconds
+Time: 45.619 seconds
+Time: 44.175 seconds
+Time: 42.645 seconds
+Time: 38.998 seconds
+Time: 40.444 seconds
+Time: 43.609 seconds
+Time: 45.633 seconds
+
+Matrix size: 2600 x 2600
+
+Result matrix: 
+3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 3381300.0 
+
+Time: 100.166 seconds
+Time: 99.701 seconds
+Time: 100.920 seconds
+Time: 98.634 seconds
+Time: 91.180 seconds
+Time: 90.046 seconds
+Time: 90.932 seconds
+Time: 88.598 seconds
+Time: 88.909 seconds
+Time: 96.478 seconds
+
+Matrix size: 3000 x 3000
+
+Result matrix: 
+4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 4501500.0 
+
+Time: 165.653 seconds
+Time: 1191.063 seconds
+Time: 162.934 seconds
+Time: 164.560 seconds
+Time: 172.619 seconds
+Time: 180.012 seconds
+Time: 180.536 seconds
+Time: 179.369 seconds
+Time: 179.451 seconds
+Time: 179.421 seconds

@@ -1,0 +1,358 @@
+-----Line Multiplication-----
+Matrix size: 600x600
+iteration: 1
+Time: 0.108 seconds
+L1 DCM: 27110625
+L2 DCM: 56796804
+
+iteration: 2
+Time: 0.112 seconds
+L1 DCM: 27108905
+L2 DCM: 56791996
+
+iteration: 3
+Time: 0.105 seconds
+L1 DCM: 27109692
+L2 DCM: 57153974
+
+iteration: 4
+Time: 0.103 seconds
+L1 DCM: 27109813
+L2 DCM: 57173351
+
+iteration: 5
+Time: 0.103 seconds
+L1 DCM: 27109956
+L2 DCM: 57194399
+
+iteration: 6
+Time: 0.104 seconds
+L1 DCM: 27110261
+L2 DCM: 57156771
+
+iteration: 7
+Time: 0.104 seconds
+L1 DCM: 27110053
+L2 DCM: 57186892
+
+iteration: 8
+Time: 0.105 seconds
+L1 DCM: 27110015
+L2 DCM: 57054458
+
+iteration: 9
+Time: 0.102 seconds
+L1 DCM: 27109375
+L2 DCM: 56954730
+
+iteration: 10
+Time: 0.104 seconds
+L1 DCM: 27110437
+L2 DCM: 56946288
+
+Matrix size: 1000x1000
+iteration: 1
+Time: 0.485 seconds
+L1 DCM: 125739853
+L2 DCM: 261223761
+
+iteration: 2
+Time: 0.485 seconds
+L1 DCM: 125672918
+L2 DCM: 261181893
+
+iteration: 3
+Time: 0.489 seconds
+L1 DCM: 125673453
+L2 DCM: 261185784
+
+iteration: 4
+Time: 0.483 seconds
+L1 DCM: 125671221
+L2 DCM: 261310188
+
+iteration: 5
+Time: 0.480 seconds
+L1 DCM: 125671065
+L2 DCM: 261299964
+
+iteration: 6
+Time: 0.485 seconds
+L1 DCM: 125670566
+L2 DCM: 260970987
+
+iteration: 7
+Time: 0.484 seconds
+L1 DCM: 125670433
+L2 DCM: 261065046
+
+iteration: 8
+Time: 0.488 seconds
+L1 DCM: 125670583
+L2 DCM: 260729024
+
+iteration: 9
+Time: 0.483 seconds
+L1 DCM: 125670948
+L2 DCM: 261201245
+
+iteration: 10
+Time: 0.484 seconds
+L1 DCM: 125671097
+L2 DCM: 261010996
+
+Matrix size: 1400x1400
+iteration: 1
+Time: 1.665 seconds
+L1 DCM: 346100155
+L2 DCM: 689030834
+
+iteration: 2
+Time: 1.681 seconds
+L1 DCM: 345944316
+L2 DCM: 690172730
+
+iteration: 3
+Time: 1.542 seconds
+L1 DCM: 345935169
+L2 DCM: 702174326
+
+iteration: 4
+Time: 1.534 seconds
+L1 DCM: 345936690
+L2 DCM: 702396869
+
+iteration: 5
+Time: 1.539 seconds
+L1 DCM: 345937155
+L2 DCM: 702127821
+
+iteration: 6
+Time: 1.538 seconds
+L1 DCM: 345933124
+L2 DCM: 702300453
+
+iteration: 7
+Time: 1.541 seconds
+L1 DCM: 345937663
+L2 DCM: 702142352
+
+iteration: 8
+Time: 1.532 seconds
+L1 DCM: 345937992
+L2 DCM: 702506874
+
+iteration: 9
+Time: 1.538 seconds
+L1 DCM: 345935105
+L2 DCM: 701994334
+
+iteration: 10
+Time: 1.542 seconds
+L1 DCM: 345937019
+L2 DCM: 702479585
+
+Matrix size: 1800x1800
+iteration: 1
+Time: 3.351 seconds
+L1 DCM: 745262214
+L2 DCM: 1439267367
+
+iteration: 2
+Time: 3.358 seconds
+L1 DCM: 744293672
+L2 DCM: 1438632418
+
+iteration: 3
+Time: 3.362 seconds
+L1 DCM: 744288655
+L2 DCM: 1437116379
+
+iteration: 4
+Time: 3.357 seconds
+L1 DCM: 744298531
+L2 DCM: 1438758356
+
+iteration: 5
+Time: 3.358 seconds
+L1 DCM: 744291685
+L2 DCM: 1439732366
+
+iteration: 6
+Time: 3.356 seconds
+L1 DCM: 744299815
+L2 DCM: 1437757146
+
+iteration: 7
+Time: 3.357 seconds
+L1 DCM: 744293452
+L2 DCM: 1439206311
+
+iteration: 8
+Time: 3.371 seconds
+L1 DCM: 744292087
+L2 DCM: 1437903222
+
+iteration: 9
+Time: 3.359 seconds
+L1 DCM: 744288172
+L2 DCM: 1440453480
+
+iteration: 10
+Time: 3.350 seconds
+L1 DCM: 744301753
+L2 DCM: 1439838493
+
+Matrix size: 2200x2200
+iteration: 1
+Time: 6.181 seconds
+L1 DCM: 2073837872
+L2 DCM: 2565695060
+
+iteration: 2
+Time: 6.177 seconds
+L1 DCM: 2073780326
+L2 DCM: 2565241556
+
+iteration: 3
+Time: 6.183 seconds
+L1 DCM: 2073657405
+L2 DCM: 2566505621
+
+iteration: 4
+Time: 6.181 seconds
+L1 DCM: 2073777982
+L2 DCM: 2566391125
+
+iteration: 5
+Time: 6.448 seconds
+L1 DCM: 2073305155
+L2 DCM: 2537886483
+
+iteration: 6
+Time: 6.192 seconds
+L1 DCM: 2073780073
+L2 DCM: 2564506357
+
+iteration: 7
+Time: 6.187 seconds
+L1 DCM: 2073715999
+L2 DCM: 2567932971
+
+iteration: 8
+Time: 6.179 seconds
+L1 DCM: 2073823625
+L2 DCM: 2565027748
+
+iteration: 9
+Time: 6.179 seconds
+L1 DCM: 2073816572
+L2 DCM: 2560609453
+
+iteration: 10
+Time: 6.388 seconds
+L1 DCM: 2073576516
+L2 DCM: 2554426771
+
+Matrix size: 2600x2600
+iteration: 1
+Time: 10.567 seconds
+L1 DCM: 4412821250
+L2 DCM: 4157815527
+
+iteration: 2
+Time: 11.042 seconds
+L1 DCM: 4412713149
+L2 DCM: 4132985213
+
+iteration: 3
+Time: 10.307 seconds
+L1 DCM: 4412863040
+L2 DCM: 4170062380
+
+iteration: 4
+Time: 10.294 seconds
+L1 DCM: 4412880237
+L2 DCM: 4169892372
+
+iteration: 5
+Time: 10.469 seconds
+L1 DCM: 4412807647
+L2 DCM: 4154485356
+
+iteration: 6
+Time: 10.298 seconds
+L1 DCM: 4412885449
+L2 DCM: 4172870286
+
+iteration: 7
+Time: 10.293 seconds
+L1 DCM: 4412845122
+L2 DCM: 4166445265
+
+iteration: 8
+Time: 10.314 seconds
+L1 DCM: 4412884629
+L2 DCM: 4170087799
+
+iteration: 9
+Time: 11.336 seconds
+L1 DCM: 4412640982
+L2 DCM: 4131402265
+
+iteration: 10
+Time: 11.366 seconds
+L1 DCM: 4412583956
+L2 DCM: 4118135702
+
+Matrix size: 3000x3000
+iteration: 1
+Time: 16.840 seconds
+L1 DCM: 6780619776
+L2 DCM: 6303171956
+
+iteration: 2
+Time: 15.945 seconds
+L1 DCM: 6780641781
+L2 DCM: 6342622755
+
+iteration: 3
+Time: 16.080 seconds
+L1 DCM: 6780650756
+L2 DCM: 6335494578
+
+iteration: 4
+Time: 16.099 seconds
+L1 DCM: 6780640185
+L2 DCM: 6336179385
+
+iteration: 5
+Time: 16.363 seconds
+L1 DCM: 6780631775
+L2 DCM: 6316161896
+
+iteration: 6
+Time: 15.880 seconds
+L1 DCM: 6780651771
+L2 DCM: 6344679857
+
+iteration: 7
+Time: 15.901 seconds
+L1 DCM: 6780636688
+L2 DCM: 6339414321
+
+iteration: 8
+Time: 15.880 seconds
+L1 DCM: 6780640671
+L2 DCM: 6343498006
+
+iteration: 9
+Time: 15.867 seconds
+L1 DCM: 6780642705
+L2 DCM: 6348918908
+
+iteration: 10
+Time: 15.906 seconds
+L1 DCM: 6780667208
+L2 DCM: 6351853356
+
